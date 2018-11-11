@@ -16,8 +16,7 @@ fun main(args: Array<String>) {
         completion()
     }
     // call downloadDataFunction
-    downloadData("fakeurl.com", {
-        println("The code in this block will only run" +
+    downloadData("fakeurl.com", {println("The code in this block will only run" +
         "after the completion()")
     })
 

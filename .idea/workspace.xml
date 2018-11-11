@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc400f6f-7f1c-4d77-a119-ea1b2481a8fa" name="Default" comment="" />
+    <list default="true" id="fc400f6f-7f1c-4d77-a119-ea1b2481a8fa" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyClass/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyClass/ClassesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyClass/CollectionsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyClass/ConditionalLogicKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyClass/ConditionalLogicKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyClass/FunWithFunctionsKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyClass/FunWithFunctionsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyClass/FunWithStringsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyClass/FunctionsKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyClass/FunctionsKt$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyClass/FunctionsKt$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyClass/FunctionsKt$main$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyClass/FunctionsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyClass/LambdaKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyClass/LambdaKt$main$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyClass/LambdaKt$main$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyClass/LambdaKt$main$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyClass/LambdaKt$main$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyClass/LambdaKt$main$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyClass/LambdaKt$main$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyClass/LambdaKt$main$printMessage$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyClass/LambdaKt$main$sumA$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyClass/LambdaKt$main$sumB$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyClass/LambdaKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyClass/LoopsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyClass/META-INF/UdemyClass.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyClass/NullabilityKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyClass/NumbersAndOperatorsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyClass/Truck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/UdemyClass/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lambda.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lambda.kt" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,8 +48,8 @@
       <file leaf-file-name="Lambda.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Lambda.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="43" column="30" lean-forward="true" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+            <state relative-caret-position="323">
+              <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -35,6 +68,9 @@
     <replaceStrings>
       <replace />
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -72,6 +108,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -94,8 +132,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -242,33 +278,34 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3233618" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32905984" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.3295302" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32905984" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" x="0" y="23" width="1536" height="801" id="Terminal" order="7" type="WINDOWED" weight="0.32905984" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27248323" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28456375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24966443" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32905984" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -284,6 +321,27 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Lambda.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lambda.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="26" lean-forward="true" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Lambda.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="30" lean-forward="true" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../Training/src/Caesar.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -383,13 +441,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PlayerClasses.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PlayerClasses.kt" />
     <entry file="file://$PROJECT_DIR$/src/Classes.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -399,8 +451,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Lambda.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="43" column="30" lean-forward="true" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+        <state relative-caret-position="323">
+          <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
         </state>
       </provider>
     </entry>
